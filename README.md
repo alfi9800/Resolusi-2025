@@ -4,3 +4,4 @@ Resolusi 2025
 - try making my own project
 - helping people create project
 - learn 2 programing language
+-wen yh bisa ngoding
